@@ -1,32 +1,29 @@
-# learning-journal
-Workintech yolculuğumda öğrendiklerimi burada paylaşıyorum.
-# 📓 Tolga'nın Öğrenme Günlüğü
+# 📓 Tolga's Learning Journal
 
-Merhaba!  
-Ben Tolga. Workintech Fullstack UpPro programıyla yazılıma giriş yaptım.  
-Bu repoda her sprintte öğrendiklerimi ve projelerde yaşadığım deneyimleri günü gününe paylaşıyorum.
+Hi there!  
+I'm Tolga, currently enrolled in the Workintech Fullstack UpPro program.  
+In this repository, I’m documenting what I learn, the projects I build, and the challenges I face—week by week.
 
 ---
 
-## 🚀 Başlangıç – 12 Haziran 2025
-### 🧠 Konu: JavaScript Değişkenler & Veri Tipleri
+## 🚀 Getting Started – June 12, 2025
+### 🧠 Topic: JavaScript Variables & Data Types
 
-**Neler öğrendim:**
-- `let` ve `const` ile değişken tanımlama
-- `string`, `number`, `boolean` veri türleri
-- `console.log()` ile çıktılar yazdırma
+**What I learned:**
+- Declaring variables with `let` and `const`
+- Understanding data types: `string`, `number`, `boolean`
+- Logging outputs using `console.log()`
 
-**Zorlandıklarım:**
-- `null` vs `undefined` farkı — tekrar bakmam gerek
+**Challenges:**
+- The difference between `null` and `undefined` — I need to revisit this
 
-**Uygulama fikri:**
-Kullanıcı doğum yılı girince yaşını hesaplayan bir mini JS programı
+**Mini project idea:**
+A simple program that asks for a birth year and calculates the user’s age.
 
-**Yarınki hedefim:**
-Fonksiyonlar konusuna geçmek ve bir sayı tahmin oyunu yazmaya başlamak
+**Next goal:**
+Learn about functions and try building a number guessing game.
 
 ---
 
-## 📅 Günlük Girdileri
-
-Tüm detaylı girdileri `entries/` klasöründe tutuyorum.
+## 📅 Daily Logs  
+I keep all detailed entries inside the `entries/` folder.
